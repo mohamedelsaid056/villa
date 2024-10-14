@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\repository\\irepository\\ivillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\repository\\irepository\\ivillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\controllers\\\u0650accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\controllers\\\u0650accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\villa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\villa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\repository\\irepository\\ivillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\repository\\irepository\\ivillarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|e:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaapi\\villa\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B7118-FD79-4956-A7D3-448B7EB4C1C9}|villa\\villa.csproj|solutionrelative:villa\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,32 +71,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IVillaRepository.cs",
-              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Repository\\IRepository\\IVillaRepository.cs",
-              "RelativeDocumentMoniker": "villa\\Repository\\IRepository\\IVillaRepository.cs",
-              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Repository\\IRepository\\IVillaRepository.cs",
-              "RelativeToolTip": "villa\\Repository\\IRepository\\IVillaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "\u0650AccountController.cs",
+              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Controllers\\\u0650AccountController.cs",
+              "RelativeDocumentMoniker": "villa\\Controllers\\\u0650AccountController.cs",
+              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Controllers\\\u0650AccountController.cs",
+              "RelativeToolTip": "villa\\Controllers\\\u0650AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T16:41:37.137Z",
+              "WhenOpened": "2024-10-14T10:45:35.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "loginDTO.cs",
+              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\DTO\\loginDTO.cs",
+              "RelativeDocumentMoniker": "villa\\DTO\\loginDTO.cs",
+              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\DTO\\loginDTO.cs",
+              "RelativeToolTip": "villa\\DTO\\loginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:24:47.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "registerDTO.cs",
+              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\DTO\\registerDTO.cs",
+              "RelativeDocumentMoniker": "villa\\DTO\\registerDTO.cs",
+              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\DTO\\registerDTO.cs",
+              "RelativeToolTip": "villa\\DTO\\registerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:24:25.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "villa\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "villa\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:07:47.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\MappingConfig.cs",
               "RelativeDocumentMoniker": "villa\\MappingConfig.cs",
               "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\MappingConfig.cs",
               "RelativeToolTip": "villa\\MappingConfig.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T15:13:20.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T15:13:20.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "villaDTO.cs",
               "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\DTO\\villaDTO.cs",
               "RelativeDocumentMoniker": "villa\\DTO\\villaDTO.cs",
@@ -88,12 +142,11 @@
               "RelativeToolTip": "villa\\DTO\\villaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T13:22:34.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T13:22:34.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "villa.cs",
               "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Models\\villa.cs",
               "RelativeDocumentMoniker": "villa\\Models\\villa.cs",
@@ -106,68 +159,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "villa\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "villa\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T10:40:30.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\appsettings.json",
-              "RelativeDocumentMoniker": "villa\\appsettings.json",
-              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\appsettings.json",
-              "RelativeToolTip": "villa\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-12T10:32:22.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Program.cs",
               "RelativeDocumentMoniker": "villa\\Program.cs",
               "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Program.cs",
               "RelativeToolTip": "villa\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T08:56:08.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\appsettings.json",
+              "RelativeDocumentMoniker": "villa\\appsettings.json",
+              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\appsettings.json",
+              "RelativeToolTip": "villa\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T10:32:22.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVillaRepository.cs",
+              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Repository\\IRepository\\IVillaRepository.cs",
+              "RelativeDocumentMoniker": "villa\\Repository\\IRepository\\IVillaRepository.cs",
+              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Repository\\IRepository\\IVillaRepository.cs",
+              "RelativeToolTip": "villa\\Repository\\IRepository\\IVillaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:41:37.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "villa\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "villa\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:07:09.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "villaapiController.cs",
               "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Controllers\\villaapiController.cs",
               "RelativeDocumentMoniker": "villa\\Controllers\\villaapiController.cs",
               "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Controllers\\villaapiController.cs",
               "RelativeToolTip": "villa\\Controllers\\villaapiController.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIQAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T08:33:01.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "villa.csproj",
-              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\villa.csproj",
-              "RelativeDocumentMoniker": "villa\\villa.csproj",
-              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\villa.csproj",
-              "RelativeToolTip": "villa\\villa.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-12T08:43:03.63Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "villa\\Models\\ApiResponse.cs",
+              "ToolTip": "E:\\try_programming\\backend\\fianl_ap_ projects\\villa\\villa_project\\villa\\villaAPI\\villa\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "villa\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T10:40:43.425Z"
             }
           ]
         }
