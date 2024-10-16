@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.OpenApi.Models;
+using Microsoft.AspNetCore.Mvc;
+
 namespace villa
 {
     public class Program
@@ -29,6 +31,18 @@ namespace villa
             builder.Services.AddControllers().AddNewtonsoftJson();// add newtonsoftjson for patch method
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
+
+            // Add API versioning
+
+            // Existing code...
+
+          
+            builder.Services.AddApiVersioning(options =>
+            {
+                options.ReportApiVersions = true;
+                options.AssumeDefaultVersionWhenUnspecified = true;
+                options.DefaultApiVersion = new ApiVersion(1, 0); // Default version 1.0
+            });
 
 
             //add swagger for documentation
